@@ -232,6 +232,13 @@ hr {
   background-color: lightseagreen;
   height: 100%;
 }
+
+.nav-belt .language a .flag {
+    background: url('../images/flags.png') no-repeat 0 -130px;
+    width: 121px;
+    height: 91px;
+
+}
 /* ////////////////////////////////////////// */
 .nav-belt .accounts,
 .nav-belt .returns {
