@@ -745,6 +745,43 @@ background-color: #fff;
     padding: 8px;
 }
 
+.shareBox .a-icon {
+  background-image: url('../images/social1.png');
+}
+.icon-mail {
+  background-repeat: no-repeat;
+	width: 19px;
+	height: 15px;
+  background-position-x: -256px;
+  background-position-y: -222px;
+   display: inline-block;
+}
+
+.icon-facebook {
+  background-repeat: no-repeat;
+	width: 17px;
+	height: 17px;
+  background-position-x: -297px;
+  background-position-y: -220px;
+   display: inline-block;
+}
+.icon-twitter {
+  background-repeat: no-repeat;
+	width: 18px;
+	height: 16px;
+  background-position-x: -277px;
+  background-position-y: -221px;
+   display: inline-block;
+}
+
+.icon-pinterest {
+  background-repeat: no-repeat;
+	width: 17px;
+	height: 17px;
+  background-position-x: -373px;
+  background-position-y: -220px;
+   display: inline-block;
+}
 /* ///////////////////////////////////////////////// */
 /* Frequently Bought Together */
 
